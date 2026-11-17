@@ -1,5 +1,7 @@
 # E-Commerce Funnel Optimization & A/B Testing
 
+[English](./README.md) | [中文项目介绍](./README_CN.md)
+
 ## Executive Summary
 
 Analyzed over **3 million e-commerce user interaction records** to identify conversion bottlenecks, evaluate customer behavior, and assess the effectiveness of a coupon reminder strategy through A/B testing.
